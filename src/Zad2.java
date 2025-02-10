@@ -16,7 +16,7 @@ public class Zad2 {
         System.out.println("Obrnuti redoslijed rijeci: ");
 
         for (int i = (nizRijeciTemp.length - 1); i >= 0; i--) {
-            System.out.print(nizRijeciTemp[i] + " ");novi lap ga iz
+            System.out.print(nizRijeciTemp[i] + " ");
         }
     }
 }
