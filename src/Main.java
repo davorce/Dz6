@@ -7,14 +7,11 @@
 //        Za znakove koristiti klasu Character (Character.isDigit)
 
 import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-
         System.out.println("Unesi niz znakova: ");
         String nizZnakova = scan.nextLine();
-
         int slovo = 0;
         int broj = 0;
         int ostalo = 0;
